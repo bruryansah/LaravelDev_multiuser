@@ -5,7 +5,7 @@ Tujuannya adalah untuk mempermudah setup awal, menghindari pengulangan konfigura
 Fitur yang tersedia masih bersifat dasar, namun sudah mencakup kebutuhan umum. Fitur tambahan dapat dikembangkan sesuai kebutuhan.
 
 ## 📋 Fitur
-✅ Laravel 10.x  
+✅ Laravel 12.x  
 ✅ Sistem multi-user (Admin & User)  
 ✅ Starter Kit Laravel (Breeze)  
 ✅ Login & Register sudah siap  
